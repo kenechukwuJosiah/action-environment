@@ -4,7 +4,7 @@ on:
 
 env:
   # Set Node.js Version
-  NODE_VERSION: "18.x"
+  NODE_VERSION: "20.7.0"
 
 jobs:
   install-build-test:
